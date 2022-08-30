@@ -26,22 +26,31 @@ const About = () => {
         </article>
         <article className="about__card">
           <FiUsers className='about__icon' />
-          <h5>Clients</h5>
-          <small>+2000</small>
+          <h5>Étudiant</h5>
+          <small> <a href="https://www.hetic.net/formations/bachelor-web" target="_blank">Hétic</a> </small>
         </article>
 
         <article className="about__card">
           <VscFolder className='about__icon' />
-          <h5>Experience</h5>
-          <small>1 ans</small>
+          <h5>Projets</h5>
+          <small>+ de 5 projets</small><br />
+          <small><a href="https://github.com/FabPiv">Repo Github</a></small>
         </article>
     </div>
 
     <p>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-       Dolorum perferendis harum dolorem illum, aliquam culpa 
-       quod itaque ratione quae, minima modi architecto sequi 
-       aliquid nam aut repudiandae sunt pariatur eius?
+    Je suis actuellement en 2eme année de Bachelor développement web à 
+    Hétic, école spécialisée dans la tech située à Montreuil et 
+    je recherche une alternance qui débuterait en septembre pour 
+    une durée de 2 ans. <br />
+    <br />
+Durant ma première année nous avons eu une pédagogie basée 
+sur l’apprentissage par les projets en équipe sur différents
+ langages tel que PHP/MySQL, Python, Javascript, Html, CSS 
+ cela m’a permis d’acquérir des solides connaissances 
+ techniques mais aussi de développer ma capacité à travailler 
+ en équipe, de recherches d’informations et mon goût pour la résolution 
+de problèmes le tout allié à une approche autodidacte.
     </p>
     <a href="#contact" className='btn btn-primary'> Contactez moi</a>
     </div>
