@@ -41,7 +41,7 @@ const About = () => {
     <p>
     Je suis actuellement en 2eme année de Bachelor développement web à 
     Hétic, école spécialisée dans la tech située à Montreuil et 
-    je recherche une alternance qui débuterait en septembre pour 
+    je recherche une alternance qui debuterait mi-octobre 2022 pour 
     une durée de 2 ans. <br />
     <br />
 Durant ma première année nous avons eu une pédagogie basée 
